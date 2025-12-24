@@ -89,4 +89,11 @@ Ans: False. Electricity is a Scope 2 emission.
 ### 💡 What is the total amount of Fast Cars’ Scope 2 emissions?
 Ans: 
 
+## The following table illustrates the categories mentioned in the documents that would be required to establish such a baseline.
+
+Scope	Scope 1			Scope 2		Scope 3		
+Emission Category	Mobile Combustion	Stationary Combustion	Fugitive Emissions	Purchased Energy	Purchased Heat/Steam	Upstream Impacts	Employee/Travel	End of Life
+Potential Sources for "Fast Cars"	Owned fleet vehicles (cars/trucks), forklifts	Facility heaters or boilers	Air conditioning in offices/vehicles, fire extinguishers	Electricity for facilities and EV charging	District energy for manufacturing plants	Extraction/production of gas and diesel	Commuting and business flights	Disposal of vehicle components or refrigerants
+<img width="937" height="181" alt="image" src="https://github.com/user-attachments/assets/5e749314-e5e4-454a-ae8a-59ed6d409458" />
+
 
