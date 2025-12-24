@@ -87,7 +87,9 @@ Ans: Scope 1 emissions
 ### 💡 True or False - Electricity for Fast Cars Offices, Business Travel, and Use of Sold Products are classified as Scope 3 emissions?
 Ans: False. Electricity is a Scope 2 emission.
 ### 💡 What is the total amount of Fast Cars’ Scope 2 emissions?
-Ans: 
+
+Ans: 559,400 tCO2<br>
+This is the sum of HVAC Electricity for Fast Cars Offices, Electricity for Fast Cars Offices, Electricity for Fast Cars Manufacturing
 
 ## The following table illustrates the categories mentioned in the documents that are required to establish a baseline.
 
