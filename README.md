@@ -91,7 +91,8 @@ Ans:
 
 ## The following table illustrates the categories mentioned in the documents that would be required to establish such a baseline.
 
-<img width="1708" height="181" alt="image" src="https://github.com/user-attachments/assets/c709ca3f-7a2b-4739-bb6a-b6fe63576084" />
+<img width="1780" height="257" alt="image" src="https://github.com/user-attachments/assets/35598753-5c26-4093-be2d-0bd1cbac4632" />
+
 
 
 
