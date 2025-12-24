@@ -50,7 +50,7 @@ This diagram provides a useful overview of Scope 1, 2, and 3 emissions.
 
 <img width="2516" height="1614" alt="image" src="https://github.com/user-attachments/assets/db7d9330-ddc6-4600-b225-810542fd4e03" />
 
-🏆 Quiz
+# 🏆 Quiz
 ## 💡 True or False, to achieve Net Zero, Fast Cars will have to figure out a way to take more GHGs out of the atmosphere than they produce.
 Ans - False<br>
 Net Zero means that Fast Cars has to take the same amount of GHGs out of the atmosphere as they produce. If they take more out of the atmosphere, they would be considered Carbon Negative.
