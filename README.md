@@ -97,7 +97,7 @@ This is the sum of HVAC Electricity for Fast Cars Offices, Electricity for Fast 
 
 ***
 
-<img width="874" height="617" alt="image" src="https://github.com/user-attachments/assets/8ca175f8-c412-42af-aff4-820635a3cd67" />
+<img width="874" height="617" alt="image" src="https://github.com/user-attachments/assets/54b801e2-c73c-4dd9-92fb-669cb988bfcf" />
 
 ***
 ## Total amount of Fast Cars’ emission per Scope
