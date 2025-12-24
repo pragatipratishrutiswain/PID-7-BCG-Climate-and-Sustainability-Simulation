@@ -93,7 +93,9 @@ Ans:
 
 <img width="1780" height="257" alt="image" src="https://github.com/user-attachments/assets/35598753-5c26-4093-be2d-0bd1cbac4632" />
 
-<img width="804" height="617" alt="image" src="https://github.com/user-attachments/assets/929bd035-896c-4b22-9e6f-fc95c5dd6253" />
+<img width="874" height="589" alt="image" src="https://github.com/user-attachments/assets/e94a3c35-da40-4366-8b63-29d46f280ebf" />
+
+<img width="351" height="141" alt="image" src="https://github.com/user-attachments/assets/e80302c2-954e-4aeb-b75a-9f2e238ef58d" />
 
 
 
