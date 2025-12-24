@@ -89,7 +89,7 @@ Ans: False. Electricity is a Scope 2 emission.
 ### 💡 What is the total amount of Fast Cars’ Scope 2 emissions?
 Ans: 
 
-## The following table illustrates the categories mentioned in the documents that would be required to establish such a baseline.
+## The following table illustrates the categories mentioned in the documents that are required to establish a baseline.
 
 <img width="1780" height="257" alt="image" src="https://github.com/user-attachments/assets/35598753-5c26-4093-be2d-0bd1cbac4632" />
 
