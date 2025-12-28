@@ -117,8 +117,8 @@ This is the sum of HVAC Electricity for Fast Cars Offices, Electricity for Fast 
 
 ### 💡 What is benchmarking?
 ➡️ Benchmarking helps us understand where our client is positioned in the industry.<br>
--- 🧿 Are they leading the field? <br>
--- 🧿 Are they lagging behind and likely to be targeted by investors wanting to know why they aren’t doing better?
+- 🧿 Are they leading the field? <br>
+- 🧿 Are they lagging behind and likely to be targeted by investors wanting to know why they aren’t doing better?
 
 ### 💡 So, how do we benchmark Fast Cars’ carbon emissions?
 
