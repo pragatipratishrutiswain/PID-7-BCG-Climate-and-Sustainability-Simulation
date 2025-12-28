@@ -208,12 +208,17 @@ Source - <https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9
 Now let’s use an abatement curve to make recommendations for our client.
 
 ### ⏳ Determine the largest emission sources for Fast Cars
-My team member Callie has asked my to send her an email with three abatement measures with an impact of 10% or over on emissions reduction to help Fast Cars achieve Net Zero.
+My team member Callie has asked me to send her an email with three abatement measures with an impact of 10% or over on emissions reduction to help Fast Cars achieve Net Zero.
 
 Before I do this, let’s have another look at Fast Cars' emissions baseline that we calculated in Task 1. This will guide us on where the majority of their emissions are coming from, and where we should focus our recommendations for reduction.
 
-Remember, Fast Cars aren’t ready to address Scope 3 emissions, so we’ll focus on Scope 1 and 2 reduction initiatives. Using the image below - what are the top 2 emission sources within Scope 1 and 2 categories? 
+Remember, Fast Cars aren’t ready to address Scope 3 emissions, so we’ll focus on Scope 1 and 2 reduction initiatives. 
 
-Complete the quick knowledge check before we move onto the next step.
+<img width="617" height="402" alt="image" src="https://github.com/user-attachments/assets/e4b37ad9-7339-4dbe-826b-aea68adde614" />
+
+### 💡Using the image above - what are the top 2 emission sources within Scope 1 and 2 categories? 
+
+
+
 
 
