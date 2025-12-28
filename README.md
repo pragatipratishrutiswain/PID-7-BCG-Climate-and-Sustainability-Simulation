@@ -214,7 +214,8 @@ Before I do this, let’s have another look at Fast Cars' emissions baseline tha
 
 Remember, Fast Cars aren’t ready to address Scope 3 emissions, so we’ll focus on Scope 1 and 2 reduction initiatives. 
 
-<img width="874" height="617" alt="image" src="https://github.com/user-attachments/assets/54b801e2-c73c-4dd9-92fb-669cb988bfcf" />
+<img width="458" height="310" alt="image" src="https://github.com/user-attachments/assets/21812be6-8464-4106-aa8a-537e2cc14c0f" />
+
 
 ### 💡Using the image above - what are the top 2 emission sources within Scope 1 and 2 categories? 
 
