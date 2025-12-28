@@ -1,8 +1,9 @@
 # PID-7-BCG-Climate-Sustainability-Simulation
 ### Consulting | Data Analysis | Research | Stategic Thinking | Risk Mitigation | Decision Making | Investor Relation | Communication
 
+# Step 1 🎯
 ## Scenario for this program:
-𝟏. I am working as a junior consultant at BCG’s Climate & Sustainability practice.<br>
+𝟏. I work as a junior consultant at BCG’s Climate & Sustainability practice.<br>
 𝟐. I am working on a project for an automotive client called Fast Cars.<br>
 𝟑. My team includes Senior BCG leaders Lilly and Callie, who are highly experienced in the sustainability space and I’ll learn a lot by working with them.<br>
 𝟒. I am hoping for a promotion at work, and this is an exciting opportunity for me to showcase my consulting skills and knowledge of the climate action space!<br>
@@ -103,7 +104,39 @@ This is the sum of HVAC Electricity for Fast Cars Offices, Electricity for Fast 
 ## Total amount of Fast Cars’ emission per Scope
 <img width="351" height="141" alt="image" src="https://github.com/user-attachments/assets/e80302c2-954e-4aeb-b75a-9f2e238ef58d" />
 
+# Step 2 🎯
+## Context and Benchmarking
+𝟏. How to set the context and benchmark my client with its competitors?<br>
+𝟐. About the CDP (Carbon Disclosure Project) - Compare carbon emissions using the CDP database<br>
+𝟑. Writing an email assessing my client's position
 
+### 💡 What is context setting?
 
+➡️ This allows us to understand the local, regional and global policy and regulatory context. This is important if our client is working across multiple regions with different rules.<br>
+➡️ Policy and regulation might include requirements around reporting emissions, mandated emissions reduction for certain industries or differences in emissions trading schemes.
 
+### 💡 What is benchmarking?
+➡️ Benchmarking helps us understand where our client is positioned in the industry.<br>
+-- 🧿 Are they leading the field? <br>
+-- 🧿 Are they lagging behind and likely to be targeted by investors wanting to know why they aren’t doing better?
 
+### 💡 So, how do we benchmark Fast Cars’ carbon emissions?
+
+To benchmark our client Fast Cars’ position in the market, we need to use data to understand how other companies are performing.
+
+Today, we will be using some of the publicly available data from the Carbon Disclosure Project (CDP) to benchmark Fast Cars in the industry.
+
+What is the CDP?
+
+The CDP publishes data every year on the performance of companies who disclose through their program.
+
+Companies are scored within their current level of environmental stewardship. There are 4 levels:
+
+1️⃣ Disclosure<br>
+2️⃣ Awareness<br>
+3️⃣ Management<br>
+4️⃣ Leadership
+
+Once a company satisfies the score in its current level, it can move up to the next level. Each level has a score band ranging from D- (lowest) to A (highest).
+
+See the diagrams below and complete the quick knowledge c
