@@ -162,4 +162,5 @@ Some important notes:
 👉 In practice, BCG has access to a range of datasets for in-depth analysis but this task will give you an idea of how we use various metrics to compare companies, governments and industries.
 
 2️⃣ Write a short email to Lilly with my view on how Fast Cars is performing compared to the industry. Remember Fast Cars scored **B-** here is the data set again for you to refer to.
+
 <img width="482" height="362" alt="image" src="https://github.com/user-attachments/assets/cf0641cf-36ec-4be2-a89c-ffb2cf1e059d" />
