@@ -145,4 +145,48 @@ Once a company satisfies the score in its current level, it can move up to the n
 
 <img width="656" height="200" alt="image" src="https://github.com/user-attachments/assets/ea631d88-9f93-4fe7-bf62-cb7f1019357b" />
 
+<img width="1158" height="581" alt="image" src="https://github.com/user-attachments/assets/e11e4951-1090-4eab-ba1b-4708387a98e9" />
+
+## 💪 Benchmarking Fast Cars
+Fast Cars scored B in CDP's 2020 results. Lilly has asked me to benchmark this performance against other companies in the automotive industry.
+
+My task is to:
+
+1️⃣ Analyze the below CDP scores from other Automotive Companies (example extract sourced from from CDP 2020 Climate Change Scores). Note Fast Cars is not in this data set, but remember they scored B.
+<img width="852" height="749" alt="image" src="https://github.com/user-attachments/assets/15c7cc06-f4b5-4e4f-b50a-6a0c3ef6fa6b" />
+
+Some important notes:
+
+👉 The data has been reformatted for this exercise. Fast Cars is not included in the sample dataset, as it is a fake company made up for this program.
+
+👉 In practice, BCG has access to a range of datasets for in-depth analysis but this task will give you an idea of how we use various metrics to compare companies, governments and industries.
+
+2️⃣ Write a short email to Lilly with my view on how Fast Cars is performing compared to the industry.<br>
+Remember Fast Cars scored B - here is the data set again for you to refer to.
+
+Hi Lilly, 
+
+I have attached the benchmarking exercise to this email. 
+
+From the CDP data provided, I have found 35 companies in the automotive industry that have a score greater than, equal to or two scores below Fast Cars’ score of B. Of this total: 
+
+25 companies (roughly 69.4%) score better than Fast Cars (A or A-), 
+3 companies (roughly 8.3%) score the same as Fast Cars (B), and 
+7 companies (roughly 20%) score one to two scores worse than Fast Cars (B- or C). 
+
+I am dropping the precised distribution figures around the climate score for your reference.
+
+- A   19.4%<br>
+- A-  50%<br>
+- B   11.1%<br>
+- B-  2.8%<br>
+- C   16.7%
+
+This analysis suggests that Fast Cars is performing worse than the majority of other automotive companies. Therefore, there is room for improvement for Fast Cars to be performing with the top companies. Another idea I had is that we could analyze this data by geographic region to compare to the regions Fast Cars operates in. 
+
+Happy to discuss the results further.
+
+Pragati
+
+
 
