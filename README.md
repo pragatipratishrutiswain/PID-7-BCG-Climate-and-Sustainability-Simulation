@@ -114,7 +114,8 @@ This is the sum of HVAC Electricity for Fast Cars Offices, Electricity for Fast 
 
 ### 💡 What is context setting?
 
-➡️ This allows us to understand the local, regional and global policy and regulatory context. This is important if our client is working across multiple regions with different rules.<br>
+➡️ This allows us to understand the local, regional and global policy and regulatory context. This is important if our client is working across multiple regions with different rules.
+
 ➡️ Policy and regulation might include requirements around reporting emissions, mandated emissions reduction for certain industries or differences in emissions trading schemes.
 
 ### 💡 What is benchmarking?
@@ -139,3 +140,7 @@ Companies are scored within their current level of environmental stewardship. Th
 4️⃣ Leadership
 
 Once a company satisfies the score in its current level, it can move up to the next level. Each level has a score band ranging from D- (lowest) to A (highest).
+<img width="596" height="321" alt="image" src="https://github.com/user-attachments/assets/ae617c14-d0ea-4966-b1fe-f3e708606a8b" />
+<img width="656" height="200" alt="image" src="https://github.com/user-attachments/assets/ea631d88-9f93-4fe7-bf62-cb7f1019357b" />
+
+
