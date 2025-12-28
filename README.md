@@ -165,8 +165,15 @@ Some important notes:
 
 <img width="537" height="453" alt="image" src="https://github.com/user-attachments/assets/50d381e5-e5de-42fa-aa13-7896847ad7b1" />
 
+Structure:
 
-
+1️⃣ key observation that Fast Cars, with a score of B, is not in the top 50% of performers in the industry in the data provided, but there are competitors of Fast Cars who are doing worse than them.
+ 
+2️⃣ Useful for our client because it provides them with a better idea of how they are performing compared to their competitors. For example, Fast Cars might go and look at all the emissions targets for the companies who are graded higher than them (A and A-) to see how their targets compare.
+ 
+3️⃣ The model email also suggests an area for further comparison.
+ 
+4️⃣ Importantly, the model email does not contain too much information and quickly tells Lilly the most important and most useful data without listing everything in the spreadsheet.
 
 
 
