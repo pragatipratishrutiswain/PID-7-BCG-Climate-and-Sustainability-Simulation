@@ -159,9 +159,9 @@ Some important notes:
 
 👉 The data has been reformatted for this exercise. Fast Cars is not included in the sample dataset, as it is a fake company made up for this program.
 
-👉 In practice, BCG has access to a range of datasets for in-depth analysis but this task will give you an idea of how we use various metrics to compare companies, governments and industries.
+👉 In practice, BCG has access to a range of datasets for in-depth analysis but this task will give I an idea of how we use various metrics to compare companies, governments and industries.
 
-2️⃣ Write a short email to Lilly with my view on how Fast Cars is performing compared to the industry. Remember Fast Cars scored **B-** here is the data set again for you to refer to.
+2️⃣ Write a short email to Lilly with my view on how Fast Cars is performing compared to the industry. Remember Fast Cars scored **B-** here is the data set again for I to refer to.
 
 <img width="537" height="453" alt="image" src="https://github.com/user-attachments/assets/50d381e5-e5de-42fa-aa13-7896847ad7b1" />
 
@@ -171,9 +171,49 @@ Structure:
  
 2️⃣ Useful for our client because it provides them with a better idea of how they are performing compared to their competitors. For example, Fast Cars might go and look at all the emissions targets for the companies who are graded higher than them (A and A-) to see how their targets compare.
  
-3️⃣ The model email also suggests an area for further comparison.
+3️⃣ Suggests an area for further comparison.
  
-4️⃣ Importantly, the model email does not contain too much information and quickly tells Lilly the most important and most useful data without listing everything in the spreadsheet.
+4️⃣ Also, it does not contain too much information and quickly tells Lilly the most important and most useful data without listing everything in the spreadsheet.
 
+
+# Step 3 🎯
+## Carbon Emission Reduction Strategies
+
+Learning points:
+- How companies use abatement cost curves to prioritize carbon reduction initiatives?
+- Different types of carbon initiatives
+
+Tasks:
+- Analyze which carbon reduction initiative will help Fast Cars achieve Net Zero
+- Write an email with my recommendation
+
+## Abatement curves
+There are many ways a company can reduce it’s carbon emissions. However, most companies can’t afford to do everything, so they must prioritize initiatives that will have the greatest impact and return on investment.
+
+At BCG we often use what is called an abatement cost curve to demonstrate a ‘step ladder’ pathway to net-zero.
+
+An abatement curve helps us to identify the key levers or initiatives to eliminate emissions. Initiatives are ranked in order of cost per ton of eliminated carbon.
+
+This makes it easy for our clients to quickly understand the investment required to get to net zero and to be able to compare between interventions.
+
+Below is an example image of an abatement curve in an automotive supply chain:
+
+- the x-axis represents the impact of each intervention on emissions, and
+- the y-axis represents the cost of the intervention. In the diagram below - I can see the currency on the y-axis is using Euros (€).
+
+<img width="921" height="283" alt="image" src="https://github.com/user-attachments/assets/d13cd49d-d336-4418-bfb0-ec7ede69b254" />
+
+Source - <https://cdn.theforage.com/vinternships/companyassets/SKZxezskWgmFjRvj9/BqF6gmrmLunCkdqKM/1636531908474/WEF%20Abatement%20Curve%20Resource.pdf>
+
+Now let’s use an abatement curve to make recommendations for our client.
+
+### ⏳ Determine the largest emission sources for Fast Cars
+My team member Callie has asked my to send her an email with three abatement measures with an impact of 10% or over on emissions reduction to help Fast Cars achieve Net Zero.
+
+Before I do this, let’s have another look at Fast Cars' emissions baseline that we calculated in Task 1. This will guide us on where the majority of their emissions are coming from, and where we should focus our recommendations for reduction.
+
+Remember, Fast Cars aren’t ready to address Scope 3 emissions, so we’ll focus on Scope 1 and 2 reduction initiatives. Using the image below - what are the top 2 emission sources within Scope 1 and 2 categories? 
+
+Complete the quick knowledge check before we move onto the next step.
 
 
