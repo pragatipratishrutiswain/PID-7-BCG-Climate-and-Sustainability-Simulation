@@ -163,4 +163,7 @@ Some important notes:
 
 2️⃣ Write a short email to Lilly with my view on how Fast Cars is performing compared to the industry. Remember Fast Cars scored **B-** here is the data set again for you to refer to.
 
-<img width="482" height="362" alt="image" src="https://github.com/user-attachments/assets/cf0641cf-36ec-4be2-a89c-ffb2cf1e059d" />
+<img width="531" height="391" alt="image" src="https://github.com/user-attachments/assets/d6e33e47-f14d-4f4e-90f8-819e2e6ce9ee" />
+
+
+
