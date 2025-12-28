@@ -117,8 +117,8 @@ This is the sum of HVAC Electricity for Fast Cars Offices, Electricity for Fast 
 
 ### 💡 What is benchmarking?
 ➡️ Benchmarking helps us understand where our client is positioned in the industry.<br>
-- 🧿 Are they leading the field? <br>
-- 🧿 Are they lagging behind and likely to be targeted by investors wanting to know why they aren’t doing better?
+- Are they leading the field? <br>
+- Are they lagging behind and likely to be targeted by investors wanting to know why they aren’t doing better?
 
 ### 💡 So, how do we benchmark Fast Cars’ carbon emissions?
 
@@ -126,8 +126,7 @@ To benchmark our client Fast Cars’ position in the market, we need to use data
 
 Today, we will be using some of the publicly available data from the Carbon Disclosure Project (CDP) to benchmark Fast Cars in the industry.
 
-What is the CDP?
-
+### 💡 What is the CDP?
 The CDP publishes data every year on the performance of companies who disclose through their program.
 
 Companies are scored within their current level of environmental stewardship. There are 4 levels:
@@ -138,5 +137,3 @@ Companies are scored within their current level of environmental stewardship. Th
 4️⃣ Leadership
 
 Once a company satisfies the score in its current level, it can move up to the next level. Each level has a score band ranging from D- (lowest) to A (highest).
-
-See the diagrams below and complete the quick knowledge c
