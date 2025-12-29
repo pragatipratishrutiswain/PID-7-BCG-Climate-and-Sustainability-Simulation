@@ -214,10 +214,26 @@ Before I do this, let’s have another look at Fast Cars' emissions baseline tha
 
 Remember, Fast Cars aren’t ready to address Scope 3 emissions, so we’ll focus on Scope 1 and 2 reduction initiatives. 
 
-<img width="458" height="310" alt="image" src="https://github.com/user-attachments/assets/21812be6-8464-4106-aa8a-537e2cc14c0f" />
+<img width="505" height="347" alt="image" src="https://github.com/user-attachments/assets/b5f756a5-4c1f-472a-8d29-0dbf909ebf5f" />
 
 
-### 💡Using the image above - what are the top 2 emission sources within Scope 1 and 2 categories? 
+<img width="1177" height="684" alt="image" src="https://github.com/user-attachments/assets/515f8d7a-bf92-41ef-8f13-3299030aba30" />
+
+## Finding three carbon reduction initiatives
+Now I need to identify three initiatives that reduce emissions produced by electricity and onsite gas boilers.
+
+To help me, Callie has sent me an email with some resources that I can use for my research.
+
+<img width="503" height="427" alt="image" src="https://github.com/user-attachments/assets/231d4dbe-b4d5-48ca-91b7-2d9aaad274d3" />
+
+My email to Callie outlining the three interventions I recommend for Fast Cars and why these are the best options.
+
+
+
+
+
+
+
 
 
 
