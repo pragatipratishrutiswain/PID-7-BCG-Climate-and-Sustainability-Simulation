@@ -230,6 +230,17 @@ My email to Callie outlining the three interventions I recommend for Fast Cars a
 
 
 
+# Step 4 🎯
+## 💡 What I'll learn
+The different types of Scope 3 emissions and their impact
+
+Strategies to reduce Scope 3 emissions
+
+## 💡 I'll do
+Research and analyze the most effective Scope 3 reduction strategies for your client
+
+Create a presentation with your recommendations
+
 
 
 
