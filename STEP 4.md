@@ -1,10 +1,10 @@
 # Step 4 🎯
-## 💡 What I'll learn
+## 💡 To learn
 The different types of Scope 3 emissions and their impact
 
 Strategies to reduce Scope 3 emissions
 
-## 💡 I'll do
+## 💡 To do
 Research and analyze the most effective Scope 3 reduction strategies for your client
 
 Create a presentation with your recommendations
