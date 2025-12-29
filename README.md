@@ -152,7 +152,7 @@ Fast Cars scored B in CDP's 2020 results. Lilly has asked me to benchmark this p
 
 My task is to:
 
-1️⃣ Analyze the below CDP scores from other Automotive Companies (example extract sourced from from CDP 2020 Climate Change Scores). Note Fast Cars is not in this data set, but remember they scored B.
+1️⃣ Analyze the below CDP scores from other Automotive Companies (example extract sourced from from CDP 2020 Climate Change Scores). Note Fast Cars is not in this data set, but  they scored B.
 <img width="852" height="749" alt="image" src="https://github.com/user-attachments/assets/15c7cc06-f4b5-4e4f-b50a-6a0c3ef6fa6b" />
 
 Some important notes:
@@ -161,7 +161,7 @@ Some important notes:
 
 👉 In practice, BCG has access to a range of datasets for in-depth analysis but this task will give I an idea of how we use various metrics to compare companies, governments and industries.
 
-2️⃣ Write a short email to Lilly with my view on how Fast Cars is performing compared to the industry. Remember Fast Cars scored **B-** here is the data set again for I to refer to.
+2️⃣ Write a short email to Lilly with my view on how Fast Cars is performing compared to the industry.  Fast Cars scored **B-** here is the data set again for I to refer to.
 
 <img width="537" height="453" alt="image" src="https://github.com/user-attachments/assets/50d381e5-e5de-42fa-aa13-7896847ad7b1" />
 
@@ -212,7 +212,7 @@ My team member Callie has asked me to send her an email with three abatement mea
 
 Before I do this, let’s have another look at Fast Cars' emissions baseline that we calculated in Task 1. This will guide us on where the majority of their emissions are coming from, and where we should focus our recommendations for reduction.
 
-Remember, Fast Cars aren’t ready to address Scope 3 emissions, so we’ll focus on Scope 1 and 2 reduction initiatives. 
+Fast Cars aren’t ready to address Scope 3 emissions, so we’ll focus on Scope 1 and 2 reduction initiatives. 
 
 <img width="505" height="347" alt="image" src="https://github.com/user-attachments/assets/b5f756a5-4c1f-472a-8d29-0dbf909ebf5f" />
 
