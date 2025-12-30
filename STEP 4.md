@@ -22,6 +22,7 @@ Upstream Emissions include emissions generated from activities in pre-production
 Downstream Emissions include emissions generated from activities in post-production.
 
 <img width="2516" height="1614" alt="image" src="https://github.com/user-attachments/assets/9d7dc32f-231a-4f70-be59-15f66699a4ff" />
+*** 
 
 Callie has asked me to present
 
