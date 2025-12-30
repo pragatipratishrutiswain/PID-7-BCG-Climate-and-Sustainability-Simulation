@@ -1,7 +1,7 @@
 # PID-7-BCG-Climate-Sustainability-Simulation
 ## Consulting | Data Analysis | Research | Stategic Thinking | Risk Mitigation | Decision Making | Investor Relation | Communication
 
-## Scenario for this program:
+## Scenario for this program (Role Play):
 𝟏. I work as a junior consultant at BCG’s Climate & Sustainability practice.<br>
 𝟐. I am working on a project for an automotive client called Fast Cars.<br>
 𝟑. My team includes Senior BCG leaders Lilly and Callie, who are highly experienced in the sustainability space and I’ll learn a lot by working with them.<br>
