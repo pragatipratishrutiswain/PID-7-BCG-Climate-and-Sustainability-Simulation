@@ -1,6 +1,3 @@
-# PID-7-BCG-Climate-Sustainability-Simulation
-### Consulting | Data Analysis | Research | Stategic Thinking | Risk Mitigation | Decision Making | Investor Relation | Communication
-
 # Step 1 🎯
 ## Scenario for this program:
 𝟏. I work as a junior consultant at BCG’s Climate & Sustainability practice.<br>
