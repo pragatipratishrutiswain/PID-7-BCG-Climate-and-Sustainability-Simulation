@@ -25,5 +25,12 @@ Downstream Emissions include emissions generated from activities in post-product
 
 <img width="916" height="791" alt="image" src="https://github.com/user-attachments/assets/828cdee4-204c-48f5-abb5-18bd88fa4b35" />
 
+Callie has asked me to present
+
+- **Slide 1:** Summary of Fast Cars’ current Scope 3 emissions to identify the largest emission sources to focus our recommendations.
+ 
+- **Slide 2:** Summary of scope 3 emissions targets set by a selection of Fast Cars competitors.
+ 
+- **Slide 3:** Outline 3 initiatives Fast Cars’ could consider to reduce Scope 3 emissions. Look for reports and knowledge articles on the ways in which automotive companies can reduce these emissions.
 
 
