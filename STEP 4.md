@@ -37,7 +37,7 @@ Callie has asked me to present
 
 ***
 
-<img width="874" height="617" alt="image" src="https://github.com/user-attachments/assets/54b801e2-c73c-4dd9-92fb-669cb988bfcf" />
+<img width="646" height="352" alt="image" src="https://github.com/user-attachments/assets/22e02052-ded0-4571-b665-52f040ef3405" />
 
 ## Slide 1
 Summary of Upstream / Downstream Emissions
