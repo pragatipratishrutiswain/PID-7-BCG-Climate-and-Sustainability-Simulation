@@ -35,3 +35,23 @@ Callie has asked me to present
 
 <img width="916" height="791" alt="image" src="https://github.com/user-attachments/assets/828cdee4-204c-48f5-abb5-18bd88fa4b35" />
 
+***
+
+<img width="874" height="617" alt="image" src="https://github.com/user-attachments/assets/54b801e2-c73c-4dd9-92fb-669cb988bfcf" />
+
+## Slide 2
+Summary of Upstream / Downstream Emissions
+
+
+
+## Slide 2
+In this slide we want to summarize the scope 3 emissions targets set by a selection of Fast Cars competitors. Here are some resources to help you:
+
+Resources: SBTi website to see what scope 3 emissions reduction targets other automotive companies have set (https://sciencebasedtargets.org/).
+ 
+https://global.nissannews.com/en/releases/nissan-sets-carbon-neutral-goal-for-2050
+ 
+https://www.daimler.com/documents/sustainability/other/2018-scope-3.pdf
+ 
+https://www.toyota-industries.com/csr/environment/process/scope3/
+
