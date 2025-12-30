@@ -36,6 +36,9 @@ Callie has asked me to present
 <img width="916" height="791" alt="image" src="https://github.com/user-attachments/assets/828cdee4-204c-48f5-abb5-18bd88fa4b35" />
 
 ***
+Upstream Emissions include emissions generated from activities in pre-production.
+
+Downstream Emissions include emissions generated from activities in post-production.
 
 <img width="646" height="352" alt="image" src="https://github.com/user-attachments/assets/22e02052-ded0-4571-b665-52f040ef3405" />
 
