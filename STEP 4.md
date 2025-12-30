@@ -45,7 +45,10 @@ Downstream Emissions include emissions generated from activities in post-product
 ## Slide 1
 Summary of Upstream / Downstream Emissions
 
+<img width="541" height="73" alt="image" src="https://github.com/user-attachments/assets/b9bd2576-9aba-488d-ba65-e0464cc13353" />
 
+***
+<img width="730" height="412" alt="image" src="https://github.com/user-attachments/assets/2a7140de-eb30-4267-b1ee-997f2379aff5" />
 
 ## Slide 2
 In this slide we want to summarize the scope 3 emissions targets set by a selection of Fast Cars competitors. Here are some resources:
