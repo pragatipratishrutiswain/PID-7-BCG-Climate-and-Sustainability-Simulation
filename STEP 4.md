@@ -43,7 +43,6 @@ Downstream Emissions include emissions generated from activities in post-product
 <img width="646" height="352" alt="image" src="https://github.com/user-attachments/assets/22e02052-ded0-4571-b665-52f040ef3405" />
 
 ## Slide 1
-Summary of Upstream / Downstream Emissions
 
 <img width="730" height="412" alt="image" src="https://github.com/user-attachments/assets/2a7140de-eb30-4267-b1ee-997f2379aff5" />
 
