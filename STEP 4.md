@@ -45,7 +45,7 @@ Summary of Upstream / Downstream Emissions
 
 
 ## Slide 2
-In this slide we want to summarize the scope 3 emissions targets set by a selection of Fast Cars competitors. Here are some resources to help you:
+In this slide we want to summarize the scope 3 emissions targets set by a selection of Fast Cars competitors. Here are some resources:
 
 Resources: SBTi website to see what scope 3 emissions reduction targets other automotive companies have set (https://sciencebasedtargets.org/).
  
