@@ -19,13 +19,10 @@ BCG consulting simulation analyzing climate risks for investor decisions.
 - [Bullet 1: e.g., 25% risk reduction via mitigation strategies]
 - [Bullet 2: Correlation analysis results]
 
-## Screenshots
-![Dashboard](path/to/image.png)
-
 ## How to Reproduce (Example)
 1. Clone repo
 2. Install Excel, load data
 3. Open Excel files
 
-[Live Dashboard](link)
+[Live Dashboard if any](link)
 
