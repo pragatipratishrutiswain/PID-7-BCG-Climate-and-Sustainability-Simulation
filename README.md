@@ -12,8 +12,6 @@ BCG consulting simulation analyzing climate risks for investor decisions.
 
 
 ## Tools & Tech Stack
-- SQL (MySQL) [file:1]
-- Power BI
 - Excel
 - Domain: ESG/Sustainability
 
@@ -26,8 +24,8 @@ BCG consulting simulation analyzing climate risks for investor decisions.
 
 ## How to Reproduce (Example)
 1. Clone repo
-2. Install MySQL, load data
-3. Open Power BI files
+2. Install Excel, load data
+3. Open Excel files
 
 [Live Dashboard](link)
 
